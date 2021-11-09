@@ -13,11 +13,9 @@
 </ol>
 
 ## ScreenShots
-<div class="row post-image-bg" markdown="1">
-    <video width="99%" height="540" autoplay loop muted markdown="1">
-        <source src="Bot.mp4" type="video/mp4" markdown="1" >
-    </video>
-</div>
+<video width="320" height="240" controls>
+  <source src="Bot.mp4" type="video/mp4">
+</video>
         
 <p align="center">
   <img src="https://i.imgur.com/pfq282F.png" />

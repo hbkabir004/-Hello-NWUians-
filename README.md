@@ -18,21 +18,14 @@
         <source src="Bot.mp4" type="video/mp4" markdown="1" >
     </video>
 </div>
-
-<br>
     
 <p align="center">
+    
 ![Imgur](https://i.imgur.com/pfq282F.png)
-
-<br>
 
 ![Imgur](https://i.imgur.com/TPnv1fv.png)
 
-<br>
-
 ![Imgur](https://i.imgur.com/HBwytQo.png)
-
-<br>
 
 ![Imgur](https://i.imgur.com/kNcLWAJ.png)
 

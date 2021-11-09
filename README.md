@@ -18,21 +18,19 @@
         <source src="Bot.mp4" type="video/mp4" markdown="1" >
     </video>
 </div>
-    
+        
 <p align="center">
-    
-![Imgur](https://i.imgur.com/pfq282F.png)
-
-![Imgur](https://i.imgur.com/TPnv1fv.png)
-
-![Imgur](https://i.imgur.com/HBwytQo.png)
-
-![Imgur](https://i.imgur.com/kNcLWAJ.png)
-
+  <img src="https://i.imgur.com/pfq282F.png" />
+   <img src="https://i.imgur.com/TPnv1fv.png" />
+   <img src="https://i.imgur.com/HBwytQo.png" />
+   <img src="https://i.imgur.com/kNcLWAJ.png" />
 </p>
 
 ## Activity Diagram
-![Imgur](https://i.imgur.com/oq4kyYd.png)
+    
+<p align="center">
+  <img src="https://i.imgur.com/oq4kyYd.png" />
+</p>
 
 ## Limitations:
 <p>Since it was a full-free API service from Google. But now it is upgraded to version-2 from version-1 and Google has closed the Fulfillment access (JS Code of this project) and many of our works have been erased. So, we cannot give a strong knowledge base to this Bot.</p>

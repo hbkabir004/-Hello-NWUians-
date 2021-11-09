@@ -37,12 +37,8 @@
 
 <br>
 
-![Imgur](https://i.imgur.com/Xh6AbQm.png)
-
-<br>
-
 ## Activity Diagram
-![Imgur](https://imgur.com/a/jTsqgyQ)
+![Imgur](https://i.imgur.com/oq4kyYd.png)
 
 ## Limitations:
 <p>Since it was a full-free API service from Google. But now it is upgraded to version-2 from version-1 and Google has closed the Fulfillment access (JS Code of this project) and many of our works have been erased. So, we cannot give a strong knowledge base to this Bot.</p>

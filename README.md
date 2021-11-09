@@ -20,7 +20,8 @@
 </div>
 
 <br>
-
+    
+<p align="center">
 ![Imgur](https://i.imgur.com/pfq282F.png)
 
 <br>
@@ -35,7 +36,7 @@
 
 ![Imgur](https://i.imgur.com/kNcLWAJ.png)
 
-<br>
+</p>
 
 ## Activity Diagram
 ![Imgur](https://i.imgur.com/oq4kyYd.png)

@@ -13,9 +13,7 @@
 </ol>
 
 ## ScreenShots
-<video width="320" height="240" controls>
-  <source src="Bot.mp4" type="video/mp4">
-</video>
+<video style="width:70%" controls src="Bot.mp4"></video>
         
 <p align="center">
   <img src="https://i.imgur.com/pfq282F.png" />

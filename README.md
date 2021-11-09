@@ -13,9 +13,9 @@
 </ol>
 
 ## ScreenShots
-<video style="width:70%" controls src="Bot.mp4"></video>
-        
+       
 <p align="center">
+  <img src="https://www.dropbox.com/s/ri62b6uwkbr822n/Bot.mp4?dl=0" />
   <img src="https://i.imgur.com/pfq282F.png" />
    <img src="https://i.imgur.com/TPnv1fv.png" />
    <img src="https://i.imgur.com/HBwytQo.png" />
